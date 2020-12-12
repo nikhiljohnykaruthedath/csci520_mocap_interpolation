@@ -82,7 +82,7 @@ For example:
 - Lastly, press ESC to exit the program
 
 ## Demo
-[Youtube](https://youtu.be/lNnSzMqfDFM)
+[Youtube](https://youtu.be/YirRVbcmH1g)
 
 ## Course Links
 1) USC Viterbi School of Engineering [CSCI 520](http://barbic.usc.edu/cs520-s20/)
